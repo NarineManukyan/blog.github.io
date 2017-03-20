@@ -1,5 +1,5 @@
 ---
-# title: "How to get started with a decision tree learning structure"
+# How to get started with a decision tree learning structure
 ---
 
 In order to garner the highest return on investment on your ad spend, knowing the best audience to target is essential.
